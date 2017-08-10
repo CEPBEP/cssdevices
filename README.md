@@ -12,15 +12,6 @@
 # Samsung S8
 
 ```html
-<link rel="stylesheet" type="text/css" href="apple.css">
-<pre>
- <html >
-<head>
-  <meta charset="UTF-8">
-  <title>S8</title>
-  
-  
-  
       <style>@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300');
 body {
   transform: scale(1.4);
@@ -144,10 +135,5 @@ body {
   <div>10, 08 2017</div>
   <div>SWIPE SCREEN TO UNLOCK</div>
 </div>
-  
-    <!--<script src="js/index.js"></script>-->
-
-</body>
-</html>
 ```
 
