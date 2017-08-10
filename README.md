@@ -1,4 +1,4 @@
-# cssdevices
+# -----
 # просто
 ```html
 <link rel="stylesheet" type="text/css" href="apple.css">
