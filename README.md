@@ -1,5 +1,6 @@
 # cssdevices
 # просто
+```html
 <link rel="stylesheet" type="text/css" href="apple.css">
 <pre>
   <div class="iphone-6 silver"></div>
@@ -10,3 +11,5 @@
 	<div class="macbook-air"></div>
 	<div class="imac"></div>
 </pre>
+```
+
